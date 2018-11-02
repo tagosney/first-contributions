@@ -9798,6 +9798,7 @@ Rohan Das
 - [Dominic Mostert](https://github.com/MostertCoder)
 - [meltz](https://github.com/meltz)
 - [Bob Back](https://github.com/bob-back)
+- [Tricia Gosney](https://github.com/tagosney)
 - [Sastem](https://github.com/Sastem)
 - [Shounak7](https://github.com/shounak7)
 - [Leon Dong](https://github.com/dankpigeon)
